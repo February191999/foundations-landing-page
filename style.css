@@ -42,9 +42,15 @@ a {
     text-decoration: none;
 }
 
+.content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
 .hero-section {
     display: flex;
-
+    flex: 1;
 }
 
 .hero-image{
