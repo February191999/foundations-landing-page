@@ -120,3 +120,19 @@ a {
 .quote-owner {
     font-weight: bolder;
 }
+
+.call-to-action-section {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.call-to-action-div {
+    background-color: #3882F6;
+
+}
+
+.copyright-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
