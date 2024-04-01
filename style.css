@@ -8,7 +8,16 @@ body {
 
 nav {
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-div {
+    display: flex;
     justify-content: space-between;
+    height: 72px;
+    width: 1300px;
+    padding: 15px;
 }
 
 .header, .nav-links {
@@ -135,4 +144,11 @@ a {
 .copyright-text {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.footer {
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
