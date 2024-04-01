@@ -38,10 +38,16 @@ ul {
     gap: 25px;
 }
 
-li {
-    
-}
-
 a {
     text-decoration: none;
+}
+
+.hero-section {
+    display: flex;
+
+}
+
+.hero-image{
+    width: 300px;
+    height: auto;
 }
