@@ -90,3 +90,9 @@ a {
     width: 100px;
     height: auto;
 }
+
+.information-header-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
