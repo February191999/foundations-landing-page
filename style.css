@@ -72,3 +72,19 @@ a {
     width: 450px;
     height: 200px;
 }
+
+.information-section {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.cards {
+    display: flex;
+    
+}
+
+.information-img {
+    width: 100px;
+    height: auto;
+}
