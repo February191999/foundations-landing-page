@@ -8,7 +8,15 @@ body {
 
 nav {
     display: flex;
+}
 
+.logo-text {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+nav, .footer {
+    background-color: #1F2937;
 }
 
 ul {
