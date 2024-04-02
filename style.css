@@ -9,21 +9,14 @@ body {
 
 nav {
     display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.nav-div {
-    display: flex;
     justify-content: space-between;
-    height: 52px;
-    width: 1300px;
     align-items: center;
+    padding: 10px;
 }
 
 .header, .nav-links {
-    margin-left: auto;
-    margin-right: auto;
+    /* /* margin-left: auto; */
+    /* margin-right: auto; */ 
 }
 
 .logo-text {
