@@ -161,6 +161,16 @@ button {
     background-color: #3882F6;
     height: 100px;
     width: 815px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.call-to-action-centered {
+    display: flex;
+    justify-content: space-between;
+    width: 625px;
 }
 
 .call-to-action-header {
