@@ -68,7 +68,7 @@ a {
 }
 
 .hero-image{
-    width: 300px;
+    width: 350px;
     height: auto;
 }
 
@@ -83,6 +83,7 @@ a {
     flex-wrap: wrap;
     width: 450px;
     height: 200px;
+    gap: 10px;
 }
 
 button {
