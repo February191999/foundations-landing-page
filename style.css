@@ -129,18 +129,19 @@ button {
 .quote-section {
     background-color: #E5E7EB;
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .quote-div {
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
 }
 
 .quote-main-text {
     font-size: 36px;
-    font-weight: light;
+    font-weight: lighter;
     font-style: italic;
     color: #1F2937;
     flex-wrap: wrap;
@@ -148,6 +149,8 @@ button {
 
 .quote-owner {
     font-weight: bolder;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .call-to-action-section {
